@@ -1,2 +1,1 @@
-## Paste your link below
-
+https://bot-duels.herokuapp.com/
